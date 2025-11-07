@@ -15,7 +15,7 @@ Use the Feature Request template to suggest new features or improvements.
 1. **Fork the repository**
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/fusion-app.git
+   git clone https://github.com/LoganAffleck/fusion-app.git
    cd fusion-app
    ```
 

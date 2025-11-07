@@ -1,6 +1,6 @@
 # Fusion App
 
-A modern Next.js 14 application powered by the [Fusion Design System](https://github.com/YOUR_USERNAME/fusion-design-system) with full Builder.io visual editing integration.
+A modern Next.js 14 application powered by the [Fusion Design System](https://github.com/LoganAffleck/fusion-design-system) with full Builder.io visual editing integration.
 
 [![Next.js](https://img.shields.io/badge/Next.js-14.2-black)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-18.3-blue)](https://react.dev/)
@@ -28,7 +28,7 @@ A modern Next.js 14 application powered by the [Fusion Design System](https://gi
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/fusion-app.git
+git clone https://github.com/LoganAffleck/fusion-app.git
 cd fusion-app
 ```
 
@@ -62,7 +62,7 @@ npm run dev
 
 ## 📦 Design System Integration
 
-This app uses the **[@fusion/design-system](https://github.com/YOUR_USERNAME/fusion-design-system)** package for all UI components.
+This app uses the **[@fusion/design-system](https://github.com/LoganAffleck/fusion-design-system)** package for all UI components.
 
 ### Using Components
 
@@ -240,7 +240,7 @@ Edit `src/app/globals.css` to customize colors and styles:
 
 - **[Next.js Documentation](https://nextjs.org/docs)** - Next.js features and API
 - **[Builder.io Docs](https://www.builder.io/c/docs)** - Visual editing guide
-- **[Fusion Design System](https://github.com/YOUR_USERNAME/fusion-design-system)** - Component library docs
+- **[Fusion Design System](https://github.com/LoganAffleck/fusion-design-system)** - Component library docs
 - **[Tailwind CSS](https://tailwindcss.com/docs)** - Utility classes reference
 
 ## 🐛 Troubleshooting
@@ -277,7 +277,7 @@ Contributions welcome! Please feel free to submit a Pull Request.
 
 ## 🔗 Related Projects
 
-- **[Fusion Design System](https://github.com/YOUR_USERNAME/fusion-design-system)** - Component library used in this app
+- **[Fusion Design System](https://github.com/LoganAffleck/fusion-design-system)** - Component library used in this app
 
 ---
 

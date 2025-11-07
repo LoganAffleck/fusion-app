@@ -37,14 +37,14 @@
     "design-system",
     "fusion"
   ],
-  "author": "Your Name",
+  "author": "Logan Affleck",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/fusion-app.git"
+    "url": "https://github.com/LoganAffleck/fusion-app.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/fusion-app/issues"
+    "url": "https://github.com/LoganAffleck/fusion-app/issues"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/fusion-app#readme"
+  "homepage": "https://github.com/LoganAffleck/fusion-app#readme"
 }
