@@ -12,7 +12,7 @@
   "dependencies": {
     "@builder.io/react": "^3.2.7",
     "@builder.io/sdk": "^2.2.4",
-    "@fusion/design-system": "file:../design-system",
+    "@fusion/design-system": "github:LoganAffleck/fusion-design-system#main",
     "next": "14.2.33",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
