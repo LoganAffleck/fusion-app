@@ -1,0 +1,50 @@
+{
+  "name": "fusion-app",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A Next.js application with Fusion Design System and Builder.io integration",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@builder.io/react": "^3.2.7",
+    "@builder.io/sdk": "^2.2.4",
+    "@fusion/design-system": "file:../design-system",
+    "next": "14.2.33",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.19",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.33",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.6",
+    "typescript": "^5.5.3"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "builder-io",
+    "design-system",
+    "fusion"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/fusion-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/fusion-app/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/fusion-app#readme"
+}
